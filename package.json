@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-es6-gulp-bower",
+  "version": "1.0.0",
+  "description": "Projeto seed com angular js, ecmascript6, gulp e bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Pereira - http://github.com/jeanp",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "browser-sync": "^2.10.0",
+    "bs-html-injector": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}

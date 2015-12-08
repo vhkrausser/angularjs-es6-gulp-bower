@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-es6-gulp-bower",
+  "description": "Projeto seed com angular js, ecmascript6, gulp e bower",
+  "main": "index.js",
+  "authors": [
+    "Jean Pereira - http://github.com/jeanp"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
